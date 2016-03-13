@@ -1,7 +1,7 @@
 # proxy
 
 Walkthrough:
-![alt tag](https://raw.githubusercontent.com/theonekaran/proxy/walkthrough.gif)
+![alt tag](https://raw.githubusercontent.com/theonekaran/proxy/master/walkthrough.gif)
 
 
 Configuration:
