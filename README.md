@@ -1,7 +1,8 @@
 # proxy
 
 Walkthrough:
-walkthrough.gif
+![alt tag](https://raw.githubusercontent.com/theonekaran/proxy/walkthrough.gif)
+
 
 Configuration:
 
@@ -19,7 +20,7 @@ The port of the destination server. Defaults to 80 or 8000 when a host is not sp
 
 --url
 
-A single url that overrides the above. E.g., http://www.google.com
+A single url that overrides the above. E.g., http://www.google.com:80 
 
 --logfile
 
