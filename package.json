@@ -1,0 +1,23 @@
+{
+  "name": "proxy_server",
+  "version": "1.0.0",
+  "description": "personal proxy server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theonekaran/proxy.git"
+  },
+  "author": "Karan Khurana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theonekaran/proxy/issues"
+  },
+  "homepage": "https://github.com/theonekaran/proxy#readme",
+  "dependencies": {
+    "request": "^2.69.0",
+    "yargs": "^3.32.0"
+  }
+}
