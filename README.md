@@ -1,5 +1,8 @@
 # proxy
 
+Walkthrough:
+walkthrough.gif
+
 Configuration:
 
 CLI Arguments:
